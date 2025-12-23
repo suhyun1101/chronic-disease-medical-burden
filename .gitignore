@@ -1,0 +1,14 @@
+# data (절대 업로드 금지)
+data/raw/
+*.xlsx
+
+# jupyter
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+
+# OS
+.DS_Store
+Thumbs.db
