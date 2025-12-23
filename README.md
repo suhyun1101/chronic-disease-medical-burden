@@ -70,3 +70,26 @@ chronic-disease-medical-burden/
 ├─ reference/          # Related academic literature
 ├─ reports/            # Final research report and presentation slides
 └─ README.md
+
+
+
+---
+
+## Reproducibility and Transparency
+Although the original KHP data cannot be shared publicly, all analytical procedures,
+model specifications, and variable constructions are explicitly documented to ensure
+transparency and reproducibility for researchers with authorized data access.
+
+---
+
+## Outputs
+- Descriptive statistics of the study sample (Table 1)
+- Estimated causal effects using IPTW, PSM, and CRE
+- Final research report and presentation materials (see `reports/`)
+
+---
+
+## Author
+**SuHyun Ju**  
+B.A. Mathematics, B.A. Statistics (Double Major)  
+Research interests: Causal Inference, Health Economics, Data Science
